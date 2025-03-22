@@ -7,6 +7,7 @@ I am a second-year computer science student at the University of Auckland, who i
 
 - 💻 Building modern Web Applications with React, Next.js, and TailwindCSS among other technologies
 - 🤖 Exploring Machine Learning with scikit-learn
+- 👨‍💻 Improving my Data Structures and Algorithms Knowledge
 
 Check out my [coding portfolio!](https://www.mikaisomerville.com)
 
