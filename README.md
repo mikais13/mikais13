@@ -30,6 +30,7 @@ Languages:
 
 Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Libraries/Frameworks:
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -43,5 +44,5 @@ Libraries/Frameworks:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23ED8B00.svg?style=for-the-badge&logoColor=white)
-![Motion](https://img.shields.io/badge/framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Motion](https://img.shields.io/badge/motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
 ![Anime.js](https://img.shields.io/badge/anime.js-%23E45C54.svg?style=for-the-badge&logoColor=white)
