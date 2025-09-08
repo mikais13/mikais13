@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋 I'm Mikai Somerville</h1>
+<h1 align="center">Hi 👋 I'm <code>Mikai Somerville</code></h1>
 
 # 💫 About Me:
 I am a second-year computer science student at the University of Auckland, who is passionate about building solutions through code.
 
 ## 🚀 What I'm Up To
 
-- 💻 Building modern Web Applications with React, Next.js, and Tailwind CSS among other technologies
-- 🤖 Exploring Machine Learning with scikit-learn
+- 💻 Building modern Web Applications with React, Next.js, and Tailwind CSS, among other technologies
 - 👨‍💻 Improving my Data Structures and Algorithms Knowledge
+- 🤖 Exploring Machine Learning with scikit-learn
 
 Check out my [coding portfolio!](https://www.mikaisomerville.com)
 
@@ -15,25 +15,24 @@ Check out my [coding portfolio!](https://www.mikaisomerville.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaisomerville)
 
 # 💻 Tech Stack:
-Languages: 
+#### Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%232A5F98?style=for-the-badge&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-Developer Tools:
+#### Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Libraries/Frameworks:
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+#### Libraries/Frameworks:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Payload CMS](https://img.shields.io/badge/payload_cms-%23000000.svg?style=for-the-badge&logo=payloadcms&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -44,6 +43,8 @@ Libraries/Frameworks:
 ![Yamada UI](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-%23FFFFFF.svg?style=for-the-badge&logo=storybook)
+![Vitest](https://img.shields.io/badge/vitest-%231b1b1f.svg?style=for-the-badge&logo=vitest)
 ![Flask](https://img.shields.io/badge/flask-%2381B5D6.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23ED8B00.svg?style=for-the-badge&logoColor=white)
