@@ -5,7 +5,7 @@ I am a second-year computer science student at the University of Auckland, who i
 
 ## 🚀 What I'm Up To
 
-- 💻 Building modern Web Applications with React, Next.js, and TailwindCSS among other technologies
+- 💻 Building modern Web Applications with React, Next.js, and Tailwind CSS among other technologies
 - 🤖 Exploring Machine Learning with scikit-learn
 - 👨‍💻 Improving my Data Structures and Algorithms Knowledge
 
@@ -21,7 +21,7 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -35,13 +35,16 @@ Developer Tools:
 Libraries/Frameworks:
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/payload_cms-%23000000.svg?style=for-the-badge&logo=payloadcms&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/yamada_ui-%23333333.svg?style=for-the-badge&logoColor=white)
+![Yamada UI](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%2381B5D6.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23ED8B00.svg?style=for-the-badge&logoColor=white)
 ![Motion](https://img.shields.io/badge/motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
