@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋 I'm <code>Mikai Somerville</code></h1>
 
-# 💫 About Me:
-I am a second-year computer science student at the University of Auckland, who is passionate about building solutions through code.
-
 ## 🚀 What I'm Up To
 
 - 💻 Building modern Web Applications with React, Next.js, and Tailwind CSS, among other technologies
 - 👨‍💻 Improving my Data Structures and Algorithms Knowledge
-- 🤖 Exploring Machine Learning with scikit-learn
+- 🤖 Exploring Agentic AI development workflows
 
 Check out my [coding portfolio!](https://www.mikaisomerville.com)
 
@@ -22,11 +19,10 @@ Check out my [coding portfolio!](https://www.mikaisomerville.com)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 
 #### Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github Actions](https://img.shields.io/badge/github-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)
+![Github Actions](https://img.shields.io/badge/github%20actions-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F48120.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/monogdb-%2300684A.svg?style=for-the-badge&logo=monogodb&logoColor=white)
 
@@ -40,8 +36,6 @@ Check out my [coding portfolio!](https://www.mikaisomerville.com)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Yamada UI](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-%23FFFFFF.svg?style=for-the-badge&logo=storybook)
 ![Vitest](https://img.shields.io/badge/vitest-%231b1b1f.svg?style=for-the-badge&logo=vitest)
 ![Flask](https://img.shields.io/badge/flask-%2381B5D6.svg?style=for-the-badge&logo=flask&logoColor=white)
