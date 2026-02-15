@@ -4,6 +4,7 @@
 
 - 💻 Building modern Web Applications with React, Next.js, and Tailwind CSS, among other technologies
 - 👨‍💻 Improving my Data Structures and Algorithms Knowledge
+- 🔧 Expanding my DevOps skills and knowledge with tools such as GitHub Actions, git, Docker, and cloud deployment platforms
 - 🤖 Exploring Agentic AI development workflows
 
 Check out my [coding portfolio!](https://www.mikaisomerville.com)
@@ -23,8 +24,12 @@ Check out my [coding portfolio!](https://www.mikaisomerville.com)
 #### Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/github%20actions-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F48120.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MongoDB](https://img.shields.io/badge/monogdb-%2300684A.svg?style=for-the-badge&logo=monogodb&logoColor=white)
+![Fly](https://img.shields.io/badge/fly.io-%235f66e0.svg?style=for-the-badge&logo=fly.io&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2300684A.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23F9AD00.svg?style=for-the-badge&logo=pnpm&logoColor=white)
 
 #### Libraries/Frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
