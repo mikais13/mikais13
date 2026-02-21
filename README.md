@@ -9,7 +9,7 @@
 
 Check out my [coding portfolio!](https://www.mikaisomerville.com)
 
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaisomerville)
 
 # 💻 Tech Stack:
@@ -30,6 +30,7 @@ Check out my [coding portfolio!](https://www.mikaisomerville.com)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2300684A.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-%23F9AD00.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=F6DECE)
 
 #### Libraries/Frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,6 +41,7 @@ Check out my [coding portfolio!](https://www.mikaisomerville.com)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%23000000.svg?style=for-the-badge&logo=zod)
 ![Yamada UI](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-%23FFFFFF.svg?style=for-the-badge&logo=storybook)
 ![Vitest](https://img.shields.io/badge/vitest-%231b1b1f.svg?style=for-the-badge&logo=vitest)
